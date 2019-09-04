@@ -11,7 +11,7 @@ SQLAlchemy==1.1.14
 Werkzeug==0.12.2
 Werkzeug==0.12.2
 beautifulsoup4==4.6.0 
-requests==2.14.2
+requests==2.20.0
 requests-oauthlib==0.8.0                
 requests-toolbelt==0.8.0   
 selenium==3.6.0    
